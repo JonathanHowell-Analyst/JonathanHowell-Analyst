@@ -21,7 +21,7 @@ My current focus is expanding beyond traditional analytics into **automation and
 
 My pinned repositories below demonstrate projects across:
 
-**Predictive customer analytics • Large-scale Python analysis • SQL business analysis • Customer segmentation • Operational analytics • Data visualisation**
+**Python business automation** • Predictive customer analytics • SQL business analysis • Large-scale data analysis • Customer segmentation • Data visualisation
 
 ## Current Direction
 
